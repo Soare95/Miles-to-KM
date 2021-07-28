@@ -1,4 +1,4 @@
-import tkinter
+import tkinte
 
 
 window = tkinter.Tk()
